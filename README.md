@@ -116,8 +116,6 @@ git clone https://github.com/gadepall/digital-design
 
 ### Video Tutorials
 
-The codes used in these videos and relevant references for each video are present at [goats-9/fwc-codes](https://github.com/goats-9/fwc-codes). These have been adapted from [gadepall/digital-design](https://github.com/gadepall/digital-design).
-
 1. [Arduino/PlatformIO](https://www.youtube.com/playlist?list=PLFAML6L4m0jNqTyHS-vdjfL-iLmvrvmX2)
 2. [AVR-Assembly](https://www.youtube.com/playlist?list=PLFAML6L4m0jP1pXZbOEx_XRBXMHzHbU-H)
 3. [AVR-GCC](https://www.youtube.com/playlist?list=PLFAML6L4m0jNxRPxL8O6QB8A28JAu_eGh)
@@ -169,7 +167,7 @@ svn co https://github.com/gadepall/vaman/trunk/fpga
 
 **NOTE**: Skip this if you are using a bluetooth keyboard
 
-1. Follow instructions in Section 1 of the [manual](https://github.com/gadepall/fwc-1/blob/main/installation/main.pdf).
+1. Follow instructions in Section 1.
 2. On termux on your phone, enter a simple password
 
     ```bash
