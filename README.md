@@ -1,7 +1,3 @@
-This repo is for all modules of the [Certificate Program in Future Wireless Communications](https://fwc.iith.ac.in) (FWC) by Indian Institute of Technology, Hyderabad (IITH).
-
-# fwc-1
-
 ## Setup
 
 ### Installing Apps
